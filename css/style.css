@@ -1,0 +1,22 @@
+*{
+    font-family: 'IBM Plex Mono', monospace;
+}
+h1{
+    font-size: x-large;
+}
+h2{
+    font-size: large;
+}
+h3{
+    font-size: small;
+}
+.fecha{
+    color: grey;
+    font-size: smaller;
+}
+.ret{
+    color: red;
+}
+.ing{
+    color: green;
+}
